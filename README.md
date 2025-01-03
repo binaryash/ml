@@ -25,10 +25,13 @@ To make the most of this repository, clone it to your local machine
 1. Telecom churn prediction
 2. Adult database EDA
 3. Retreival Augmented Generation (RAG)
+4. Time series forecasting using airline data
+5. Fashion image classification 
+6. Movie recommendation system
 
 > Some projects will be listed under unnamed because they consist of a single Jupyter notebook.
 
 **Credits.**
 
-I will have to credit the mlcourse website for providing such a good course and materials for practice
+I will have to credit the mlcourse website for providing such a good course and materials for practice. 
 
