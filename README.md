@@ -12,23 +12,23 @@ This repository serves as a learning playground for machine learning enthusiasts
 - Unsupervised learning techniques
 - Evaluation metrics
 - Model deployment
+- Deep Learning
 
 Feel free to explore the notebooks and use them as a resource for your own machine learning journey.
 
 ## Usage
 
-To make the most of this repository, follow these steps:
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/machine-learning-practice.git
-   ```
+To make the most of this repository, clone it to your local machine
 
 ## List of projects
+
 1. Telecom churn prediction
 2. Adult database EDA
+3. Retreival Augmented Generation (RAG)
 
-## Credits.
+> Some projects will be listed under unnamed because they consist of a single Jupyter notebook.
+
+**Credits.**
+
 I will have to credit the mlcourse website for providing such a good course and materials for practice
 
